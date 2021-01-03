@@ -2,7 +2,7 @@
   "name": "trish",
   "version": "0.0.1",
   "description": "Church Management System",
-  "main": "src/app.js",
+  "private": true,
   "scripts": {
     "test": "jasmine"
   },
